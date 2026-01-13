@@ -1,5 +1,6 @@
 # mgmp
 Workshop MGMP Informatika Solo Raya
+by aris n. & athaya y.p.
 
 ## Link Terkait
 
